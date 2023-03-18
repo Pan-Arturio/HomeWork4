@@ -1,0 +1,40 @@
+/* task2 */
+
+/* links */
+.link {
+    color: red;
+}
+
+/* paragraph */
+ul~p {
+    font-size: 24px;
+}
+
+/* task2 */
+
+body h3 {
+    color: pink;
+}
+
+#greycol {
+    color: grey;
+}
+
+div+h3 {
+    color: black;
+}
+
+div~p {
+    color: black; 
+}
+div>p {
+    color: red;
+}
+
+h3+p {
+    color: green;
+}
+
+.yellow {
+    color: yellow;
+}
